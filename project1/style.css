@@ -1,9 +1,9 @@
 * {
     font-size: 16px;
-    background-color: #eed3ba;
+    background-image: url(https://www.google.com/imgres?q=chemistry&imgurl=https%3A%2F%2Fstatic.javatpoint.com%2Fchemistry%2Fimages%2Fwhat-is-chemistry.jpg&imgrefurl=https%3A%2F%2Fwww.javatpoint.com%2Fchemistry&docid=1C4zHDYng0pTXM&tbnid=7k0XLj0IMtz3tM&vet=12ahUKEwj937-IoZyGAxUmslYBHRLLAJsQM3oECEgQAA..i&w=500&h=375&hcb=2&ved=2ahUKEwj937-IoZyGAxUmslYBHRLLAJsQM3oECEgQAA);
     font-family: 'poppins', Arial, Helvetica, sans-serif;
     text-align: center;
-    color: green;
+    color: rgb(160, 11, 11);
     background-position: 10px;
     background-image: url(https://www.google.com/imgres?q=chemistry&imgurl=https%3A%2F%2Fwww.thoughtco.com%2Fthmb%2F6MsMmUK27akFhb8i89kj95J5iko%3D%2F1500x0%2Ffilters%3Ano_upscale()%3Amax_bytes(150000)%3Astrip_icc()%2FGettyImages-545286316-433dd345105e4c6ebe4cdd8d2317fdaa.jpg&imgrefurl=https%3A%2F%2Fwww.thoughtco.com%2Fwhat-is-chemistry-p2-604135&docid=gh5xv1OIQ5_itM&tbnid=kYer7uMD-7gj0M&vet=12ahUKEwjBq_aZj5yGAxUjQPUHHaUxA4sQM3oECB0QAA..i&w=1500&h=1000&hcb=2&ved=2ahUKEwjBq_aZj5yGAxUjQPUHHaUxA4sQM3oECB0QAA);
 }
@@ -11,7 +11,7 @@
 /* #page-title { */
 /* text-align: center; */
 /* color: green; */
-}
+
 
 section {
     width: 1500px;
