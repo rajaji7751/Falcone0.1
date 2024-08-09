@@ -29,6 +29,8 @@ const Signup = () => {
     console.log(Religion);
     const[Nationalbird,setNetionalbird]=useState("Peacock")
     console.log(Nationalbird);
+    const[Sarkar,setSarkar]=useState("BjD");
+    console.log(Sarkar);
     
   return (
     <div>
